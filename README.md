@@ -47,8 +47,9 @@ Student-Management-System/
 │── students.txt
 │── README.md
 └── screenshots/
-    ├── menu.png
-    └── output.png
+    ├── Screenshot_20260802-231504_1.jpg
+    ├── Screenshot_20260802-231548_1.jpg
+    └── Screenshot_20260802-231705_1.jpg
 
 ---
 
@@ -94,7 +95,20 @@ Linux/macOS
 
 ---
 
+## ScreenShots
 
+## Menu
+
+![Main Menu](Screenshot_20260802-231504_1.jpg)
+
+
+## Add Student
+
+![Main Menu](Screenshot_20260802-231548_1.jpg)
+
+## Show All Students
+
+![Main Menu](Screenshot_20260802-231705_1.jpg)
 
 ## Concepts Used
 
